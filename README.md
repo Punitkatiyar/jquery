@@ -1,4 +1,7 @@
-## jquery (its a javascript lib)
+## jquery
+
+> its a javascript library
+
 
 
 <hr>
