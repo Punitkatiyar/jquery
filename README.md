@@ -1,7 +1,7 @@
 
 CDN Path &copy;
 
-script <a href="./">https://code.jquery.com/jquery-3.5.1.min.js</a> /script
+<script><a href="./">https://code.jquery.com/jquery-3.5.1.min.js</a> </script>
 
 > jQuery is a library of JavaScript.
 
