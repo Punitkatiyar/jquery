@@ -1,6 +1,6 @@
 ## jquery
 
-> its a javascript library
+> jQuery is a library of <mark>JavaScript<mark>. 
 
 
 
