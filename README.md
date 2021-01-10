@@ -1,6 +1,11 @@
 ## jquery
 
-> jQuery is a library of <mark>JavaScript<mark>. 
+> jQuery is a library of JavaScript.
+
+>Jquery divided in to three category.
+<ol>
+  <li>Jquery Iffects</li>
+  </ol>
 
 
 
