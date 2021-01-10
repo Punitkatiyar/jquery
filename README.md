@@ -1,5 +1,7 @@
 
-CDN Path https://code.jquery.com/jquery-3.5.1.min.js
+CDN Path 
+
+https://code.jquery.com/jquery-3.5.1.min.js
 
 > jQuery is a library of JavaScript.
 
