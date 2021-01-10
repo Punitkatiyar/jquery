@@ -1,4 +1,4 @@
-## jquery
+
 
 > jQuery is a library of JavaScript.
 
