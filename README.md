@@ -5,8 +5,10 @@ CDN Path &copy; <a href="./">https://code.jquery.com/jquery-3.5.1.min.js</a>
 
 >Jquery divided in to three category.
 <ol>
-  <li>Jquery Iffects</li>
-  </ol>
+  <li> JQuery Iffects</li>
+  <li> JQuery With HTML</li>
+  <li> JQuery Traversing</li>
+</ol>
 
 
 
