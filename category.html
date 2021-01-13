@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1 {
+            width: 30%;
+            margin: 1%;
+            height: 120px;
+            background-color: tomato;
+            float: left;
+            text-align: center;
+            line-height: 120px;
+        }
+    </style>
+    <script src="jquery.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#t").click(function () {
+                $("h1").show()
+            });
+            $("#t1").click(function () {
+                $(".b").hide()
+                $(".a").show()
+            });
+            $("#t2").click(function () {
+                $(".a").hide()
+                $(".b").show()
+            });
+        });
+    </script>
+
+</head>
+
+<body>
+    <button id="t">All</button>
+    <button id="t1">Tab 1</button>
+    <button id="t2">Tab 2</button>
+    <br>
+    <hr>
+
+    <h1 class="a">Tab1</h1>
+    <h1 class="a">Tab1</h1>
+    <h1 class="a">Tab1</h1>
+    <h1 class="b">Tab2</h1>
+    <h1 class="b">Tab2</h1>
+    <h1 class="b">Tab2</h1>
+
+</body>
+
+</html>
